@@ -1,0 +1,40 @@
+#experience__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 100px;
+  padding-top: 60px;
+  margin: 100px;
+  background: beige;
+  border-radius: 10px;
+}
+
+.ex__block_title {
+  text-align: center;
+  padding: 25px;
+}
+
+.experience__block_first {
+  padding: 10px;
+}
+
+.experience__block_first:hover {
+  border-left: solid 7px #ffe4e1;
+  background-color: #fffaf0;
+}
+
+#first {
+  display: flex;
+  align-self: flex-start;
+  margin-left: 100px;
+}
+
+#second {
+  display: flex;
+  align-self: flex-end;
+  margin: 0px 100px 0px 100px;
+}
+
+#desc {
+  display: flex;
+}

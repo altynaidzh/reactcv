@@ -1,0 +1,25 @@
+.header__block {
+  width: 100%;
+  margin-top: 100px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.header__title {
+  font-family: "Inter" sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+}
+
+.header__desc {
+  font-family: "Inter" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.header__desc_quot {
+  padding-bottom: 25px;
+}

@@ -1,0 +1,17 @@
+#education__block {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  background-color: #191970;
+  color: white;
+  width: 1300px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 25px;
+  margin-left: 90px;
+}
+
+.education__block_first {
+  padding: 15px;
+  border-left: 2px solid white;
+}
